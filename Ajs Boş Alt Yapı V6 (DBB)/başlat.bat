@@ -1,8 +1,8 @@
 echo off
-title Hex Starting
+title Boş Starting
 color c
 cls
 :a
-node Hex.js
+node Just1N.js
 goto a
 pause

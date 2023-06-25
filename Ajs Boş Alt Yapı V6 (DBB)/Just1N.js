@@ -1,3 +1,4 @@
+//JUST1N#0 & MADE BY 💖 JUST1N
 const { AoiClient, LoadCommands } = require("aoi.js");
 //Main.js
 const bot = new AoiClient({

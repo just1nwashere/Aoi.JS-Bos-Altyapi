@@ -1,7 +1,7 @@
 echo off
-title Hex Restarting
+title Just1N Restarting
 color d
 cls
 :a
-pm2 restart Hex.js
+pm2 restart Just1N.js
 goto a

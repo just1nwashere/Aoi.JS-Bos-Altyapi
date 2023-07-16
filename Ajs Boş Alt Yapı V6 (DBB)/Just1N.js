@@ -40,4 +40,4 @@ bot.status({
 });
 setup(Util);
 const loader = new LoadCommands(bot);
-loader.load(bot.cmd, "./Komutlar/");
+loader.load(bot.cmd, "./Botun-dosyası/Komutlar/");
